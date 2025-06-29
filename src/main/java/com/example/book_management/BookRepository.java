@@ -1,7 +1,7 @@
 // Repository Interface (Data Access Layer)
-package main.java.com.example.book_management;
+package com.example.book_management;
 
-import com.example.bookmanagement.entity.Book;
+import com.example.book_management.*;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
